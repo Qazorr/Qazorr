@@ -31,6 +31,6 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=qazorr&show_icons=true&theme=midnight-purple" alt="qazorr" width="500"/>
     </p>
     <p>
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazorr&layout=compact&theme=midnight-purple" alt="qazorr" width="500"/>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qazorr&layout=compact&theme=midnight-purple&hide=Jupyter%20Notebook,HTML" alt="qazorr" width="500"/>
     </p>
 </div>
