@@ -12,6 +12,10 @@
   </thead>
   <tbody>
     <tr>
+      <td>⌚ <a href="https://github.com/Qazorr/TerminalTyper">TerminalTyper</a></td>
+      <td>Train your typing skills by using this tool made in C++</td>
+    </tr>
+    <tr>
       <td>🌲 <a href="https://github.com/Qazorr/AISD_I/tree/master/Project">BST and AVL trees Visualizer</a></td>
       <td>Showcase of BST/AVL tree datastructure using C++/SMFL</td>
     </tr>
